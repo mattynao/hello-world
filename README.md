@@ -1,2 +1,4 @@
 # hello-world
-the 1st repository for HELLO WORLD project
+
+this is ANOTHER branch made depending on HELLO WORLD project tutorials.
+Matty's almost there, just behind them...! 
