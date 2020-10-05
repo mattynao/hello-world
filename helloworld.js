@@ -1,4 +1,6 @@
+import datetime
+
 console.log("hello there !!") ;
 
-var number = [19, 3, 81, 1, 24, 21];
-console.log(number);
+today = datetime.datetime.now()
+print(today.strftime('%Y/%m/%d/ %H:%M:%S'))
